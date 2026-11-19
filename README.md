@@ -1,2 +1,2 @@
-# CS3_2Q_Arayat_G3
-Sample repository for my arayat group
+# Leonardo Gabriel C. Palma
+Class number 10 of 9-Arayat
