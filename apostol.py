@@ -1,1 +1,2 @@
-#Individual Class
+#Vito Ynigo D. Apostol
+#indiv class
